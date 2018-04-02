@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.xulay.com/"/>
-  <updated>2018-04-02T09:31:08.940Z</updated>
+  <updated>2018-04-02T09:40:25.177Z</updated>
   <id>http://blog.xulay.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>name</title>
+    <title>我又回来啦</title>
     <link href="http://blog.xulay.com/2018/04/02/%E6%88%91%E5%8F%88%E5%9B%9E%E6%9D%A5%E5%95%A6/"/>
     <id>http://blog.xulay.com/2018/04/02/我又回来啦/</id>
     <published>2018-04-02T09:29:55.000Z</published>
-    <updated>2018-04-02T09:31:08.940Z</updated>
+    <updated>2018-04-02T09:40:25.177Z</updated>
     
     <content type="html"><![CDATA[<p>测试</p><p><strong>转载请注明出处：<a href="http://blog.xulay.com" target="_blank" rel="external">blog.xulay.com</a></strong><span style="float: right;" id="busuanzi_container_page_pv">浏览量[ <span id="busuanzi_value_page_pv"></span> ]</span></p>]]></content>
     
@@ -35,6 +35,8 @@
     
     </summary>
     
+    
+      <category term="随笔" scheme="http://blog.xulay.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
