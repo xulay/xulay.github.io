@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /photos/
+Allow: /tags/
+Allow: /archives/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: http://blog.xulay.com/sitemap.xml
+Sitemap: http://blog.xulay.com/baidusitemap.xml
