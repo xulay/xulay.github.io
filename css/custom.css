@@ -1,6 +1,6 @@
 /* 去除畅言广告 */
 #pop_ad,
 .block-cont-gw[node-type="ad-pc-feed"] {
-	display: none!important;
+	/*display: none!important;*/
 }
 
