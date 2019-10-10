@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>徐磊的博客</title>
+  <title>真实假面的博客</title>
   <icon>https://www.gravatar.com/avatar/abe0abd7dbfd8fa1e1b9e6ad42cef095</icon>
   <subtitle>也许路上偶尔会有风</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://blog.xulay.com/</id>
   
   <author>
-    <name>徐磊</name>
+    <name>真实假面</name>
     <email>i@xulay.com</email>
   </author>
   
