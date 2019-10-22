@@ -3,16 +3,24 @@
 
 
     
+    
   <url>
     <loc>http://blog.xulay.com/2019/10/10/test/</loc>
-    <lastmod>2019-10-10T08:17:12.998Z</lastmod>
+    <lastmod>2019-10-22T09:07:54.328Z</lastmod>
     <data>
         <display>
         <title>test</title>
         <pubTime>2019-10-10T05:44:17.000Z</pubTime>
         
+        <tag>前端</tag>
+         
+        <tag>a</tag>
+         
          
            
+             
+              <breadCrumb title="前端" url="http://blog.xulay.com/categories/%E5%89%8D%E7%AB%AF/"/>
+          
         </display>
     </data>
     </url>
@@ -126,7 +134,6 @@
     </data>
     </url>
 
-    
     
     
     

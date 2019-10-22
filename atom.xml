@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.xulay.com/"/>
-  <updated>2019-10-10T08:17:12.998Z</updated>
+  <updated>2019-10-22T09:07:54.328Z</updated>
   <id>http://blog.xulay.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.xulay.com/2019/10/10/test/"/>
     <id>http://blog.xulay.com/2019/10/10/test/</id>
     <published>2019-10-10T05:44:17.000Z</published>
-    <updated>2019-10-10T08:17:12.998Z</updated>
+    <updated>2019-10-22T09:07:54.328Z</updated>
     
     <content type="html"><![CDATA[<p>1</p><p><strong>转载请注明出处：<a href="http://blog.xulay.com" target="_blank" rel="external">blog.xulay.com</a></strong><span style="float: right;" id="busuanzi_container_page_pv">浏览量[ <span id="busuanzi_value_page_pv"></span> ]</span></p>]]></content>
     
@@ -35,6 +35,12 @@
     
     </summary>
     
+      <category term="前端" scheme="http://blog.xulay.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="http://blog.xulay.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="a" scheme="http://blog.xulay.com/tags/a/"/>
     
   </entry>
   
